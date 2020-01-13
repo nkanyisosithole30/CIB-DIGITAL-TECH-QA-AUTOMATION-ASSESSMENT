@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="CIB DIGITAL TECH – QA AUTOMATION ASSESSMENT">
+    <test name="Add User To The User Table">
+        <classes>
+            <class name="Tests.Add_And_Verify_User_Tests"> </class>
+        </classes>
+    </test>
+</suite>
